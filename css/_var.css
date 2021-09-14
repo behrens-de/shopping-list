@@ -1,0 +1,29 @@
+:root {
+    /* COLORS */
+    --primary: #6300ee;
+    --primary-variant: #3700b3;
+    --secondary: #03DAC6;
+    --secondary-variant: #018786;
+    --background: #fff;
+    --surface: #ffffff;
+    --error: #b00020;
+    --on-primary: #ffffff;
+    --on-secondary: #000000;
+    --on-background: #000000;
+    --on-surface: #000000;
+    --on-error: #ffffff;
+    --white: #ffffff;
+    /* PADDING */
+    --padding-1: .25rem;
+    --padding-2: .5rem;
+    --padding-3: .75rem;
+    --padding-4: 1rem;
+    --padding-5: 1.25rem;
+    /* MARGIN */
+    --margin-1: .25rem;
+    --margin-2: .5rem;
+    --margin-3: .75rem;
+    --margin-4: 1rem;
+    --margin-5: 1.25rem;
+
+}

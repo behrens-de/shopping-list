@@ -1,0 +1,37 @@
+@import url('./_normal.css');
+@import url('./_var.css');
+@import url('./_base.css');
+
+/*
+--- JP 
+*/
+
+.jp-main-header{
+    background: var(--primary);
+    color: var(--on-primary);
+}
+.jp-main-footer{
+    background: var(--primary);
+    color: var(--on-primary);
+    text-align: center;
+}
+
+
+.jp-main-nav {
+    width: auto;
+overflow: scroll;
+}
+.jp-main-nav li{
+    padding: 13px 16px 10px 16px;
+    border-bottom: 3px solid transparent;
+}
+.jp-main-nav li:hover{
+    background: rgba(0, 0, 0, .2);
+}
+.jp-main-nav li.active{
+    border-bottom: 3px solid rgba(255, 255, 255, 0.6);
+}
+
+.developed{
+    font-size: 70%;
+}
